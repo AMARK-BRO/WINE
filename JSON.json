@@ -7,8 +7,8 @@
   "members" : [
     {
       "name" : "Ale BEER",
-      "age" :"⭐⭐⭐⭐⭐",
-      "secretIdentity" : "⭐⭐",
+      "age" :"⭐⭐",
+      "secretIdentity" : "⭐⭐⭐⭐⭐",
       "powers" : [
         "Radiation resistance",
         "Turning tiny",
@@ -17,8 +17,8 @@
     },
     {
       "name" : "Lager BEER",
-      "age" :"⭐⭐⭐",
-      "secretIdentity" : "⭐⭐⭐⭐⭐",
+      "age" :"⭐⭐⭐⭐⭐",
+      "secretIdentity" : "⭐⭐⭐",
       "powers" : [
         "Million tonne punch",
         "Damage resistance",
@@ -27,8 +27,8 @@
     },
     {
       "name" : "Guinness BEER",
-      "age" : "⭐⭐⭐⭐",
-      "secretIdentity" : "⭐⭐⭐⭐⭐",
+      "age" : "⭐⭐⭐⭐⭐",
+      "secretIdentity" : "⭐⭐⭐⭐",
       "powers" : [
         "Immortality",
         "Heat Immunity",
