@@ -1,14 +1,14 @@
 {
-  "squadName" : "Super hero squad",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
+  "squadName" : "BEER HOME",
+  "homeTown" : "MARK",
+  "formed" : 2018,
   "secretBase" : "Super tower",
   "active" : true,
   "members" : [
     {
-      "name" : "Molecule Man",
+      "name" : "Ale BEER",
       "age" :"⭐⭐⭐⭐⭐",
-      "secretIdentity" : "⭐⭐⭐⭐⭐",
+      "secretIdentity" : "⭐⭐",
       "powers" : [
         "Radiation resistance",
         "Turning tiny",
@@ -16,8 +16,8 @@
       ]
     },
     {
-      "name" : "Madame Uppercut",
-      "age" :"⭐⭐⭐⭐⭐",
+      "name" : "Lager BEER",
+      "age" :"⭐⭐⭐",
       "secretIdentity" : "⭐⭐⭐⭐⭐",
       "powers" : [
         "Million tonne punch",
@@ -26,8 +26,8 @@
       ]
     },
     {
-      "name" : "Eternal Flame",
-      "age" : "⭐⭐⭐⭐⭐",
+      "name" : "Guinness BEER",
+      "age" : "⭐⭐⭐⭐",
       "secretIdentity" : "⭐⭐⭐⭐⭐",
       "powers" : [
         "Immortality",
