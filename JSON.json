@@ -1,41 +1,23 @@
 {
-  "squadName" : "BEER HOME",
-  "homeTown" : "MARK",
+  "Name" : "BEER HOME",
+  "People" : "MARK",
   "formed" : 2018,
-  "secretBase" : "Super tower",
   "active" : true,
   "members" : [
     {
       "name" : "Ale BEER",
       "age" :"⭐⭐",
-      "secretIdentity" : "⭐⭐⭐⭐⭐",
-      "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
-      ]
+      "secretIdentity" : "⭐⭐⭐⭐⭐"
     },
     {
       "name" : "Lager BEER",
       "age" :"⭐⭐⭐⭐⭐",
-      "secretIdentity" : "⭐⭐⭐",
-      "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
-      ]
+      "secretIdentity" : "⭐⭐⭐"
     },
     {
       "name" : "Guinness BEER",
       "age" : "⭐⭐⭐⭐⭐",
-      "secretIdentity" : "⭐⭐⭐⭐",
-      "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
-      ]
+      "secretIdentity" : "⭐⭐⭐⭐"
     }
   ]
 }
